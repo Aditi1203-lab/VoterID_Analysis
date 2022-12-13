@@ -1,3 +1,2 @@
 # voter_data
-This repository is basically implemention of matplotlib.
-Here different graph is being dnamically shown for showing the irresponbility of citizens
+Code is implementation of analyzing real time voterId data to detect eligibility to vote, fraud detection . For easy understanding result is depicted in form of graphs.
